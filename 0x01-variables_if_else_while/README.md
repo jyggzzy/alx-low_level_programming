@@ -1,2 +1,2 @@
 C Programming
-Variables:"if,else, while"
+Variables:"if, else, while"
