@@ -11,15 +11,15 @@ int main(void)
 {
 	char text[9] = "_putchar";
 
-	int g = 0;
+	int i = 0;
 
 
 
-	for (g = 0; g < 8; g++)
+	for (i = 0; i < 8; i++)
 
 	{
 
-		_putchar(text[g]);
+		_putchar(text[i]);
 
 	}
 
