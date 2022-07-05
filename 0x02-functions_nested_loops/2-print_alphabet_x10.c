@@ -2,21 +2,22 @@
 
 /*
  * print_alphabet_x10.c - prints the alphabets in lower case ten times
- * Return: 0 (Success
+ * Return: 0 (Success)
  *
  */
 
-int a, b;
-{
-	for (a = 0, a <= 9, a++);
+void print_alphabet_x10(void);
+
+	int a, b;
 	{
-		for (b = 97, b <=122, b++);
+		for (a = 0, a <= 9, a++);
 		{
-			_putchar(b);
+			for (b = 97, b <=122, b++);
+			{
+				_putchar(b);
+			}
+
+		_putchar('\n');
 		}
 
-	_putchar('\n');
 	}
-
-	return (0)
-}
