@@ -1,0 +1,6 @@
+The general objective of this project is to be able to explain the following concepts without the help of Google:
+
+1. What is the difference between automatic and dynamic allocation?
+2. What is malloc and free and how to use them.
+3. Why and when use malloc.
+4. How to use valgrind to check for memory leak.
